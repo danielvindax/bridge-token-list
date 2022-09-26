@@ -1,0 +1,34 @@
+{
+    "name": "Vindax Bridge for Credit Chain",
+    "timestamp": "2022-07-26T23:17:54.015Z",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
+    "keywords": [
+      "5dax",
+      "credit",
+      "vindax"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped BNB on Credit",
+        "address": "0xED157cfe32AA59aFe7b3c5C71538884C9802577e",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "chainId": 13308,
+        "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
+      },
+      {
+        "name": "ChainLink Token on Credit",
+        "address": "0x10a04142d98e82b3be399d4b2ba2ffe92afaf550",
+        "symbol": "LINK",
+        "decimals": 18,
+        "chainId": 13308,
+        "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0x10a04142d98e82b3be399d4b2ba2ffe92afaf550.png"
+      }
+    ]
+  }
