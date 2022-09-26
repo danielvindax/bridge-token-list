@@ -10,7 +10,7 @@
     {
       "name": "ChainLink Token",
       "address": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
-      "symbol": "DAI",
+      "symbol": "LINK",
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0x10a04142d98e82b3be399d4b2ba2ffe92afaf550.png"
