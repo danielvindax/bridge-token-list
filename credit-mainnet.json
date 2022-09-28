@@ -1,18 +1,10 @@
 [
     {
         "name": "Wrapped BNB on Credit",
-        "address": "0xED157cfe32AA59aFe7b3c5C71538884C9802577e",
+        "address": "0x8D792C908F1bF02E35CA8b3F381280d9B2cdE107",
         "symbol": "WBNB",
         "decimals": 18,
         "chainId": 13308,
         "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
-      },
-      {
-        "name": "ChainLink Token on Credit",
-        "address": "0x10a04142d98e82b3be399d4b2ba2ffe92afaf550",
-        "symbol": "LINK",
-        "decimals": 18,
-        "chainId": 13308,
-        "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0x10a04142d98e82b3be399d4b2ba2ffe92afaf550.png"
       }
 ]
