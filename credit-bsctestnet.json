@@ -5,7 +5,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
+      "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
     },
     {
       "name": "ChainLink Token",
@@ -13,6 +13,6 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/bridge-token-list/main/assets/credit/0x10a04142d98e82b3be399d4b2ba2ffe92afaf550.png"
+      "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0x10a04142d98e82b3be399d4b2ba2ffe92afaf550.png"
     }
   ]
