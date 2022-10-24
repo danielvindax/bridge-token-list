@@ -6,5 +6,13 @@
         "decimals": 18,
         "chainId": 9829,
         "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
-      }
+    },
+    {
+      "name": "Wrapped Ether from ETH",
+      "address": "0x74f13c6542F0255a0f9f39d81cC96EDedaF78204",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 9829,
+      "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/WETH.png"
+  }
 ]
