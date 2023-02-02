@@ -1,1 +1,10 @@
-[]
+[
+    {
+      "name": "Wrapped BNB from PRM",
+      "address": "0xac6833c567d2f91208cd1f8a3c75053dcd9fc7f4",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
+  }
+]
